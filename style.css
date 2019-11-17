@@ -51,9 +51,9 @@
     color: #ffffff;
     color: #cccccc;
     text-align: center;
-    background: #5a585638;
+    background: #110b05fd;
     border-top: 8px solid hsla(327, 65%, 32%, 0.425);
-    height: 50px;
+    height: auto;
     width: 100%;
     
   }
